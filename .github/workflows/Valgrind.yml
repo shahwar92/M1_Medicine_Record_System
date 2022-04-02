@@ -21,4 +21,4 @@ jobs:
     - name: make test
       run: |
         make test -C M1_Medicine_Record_System/3_Implementation/
-        valgrind ./M1_Medicine_Record_SystemC/3_Implementation/build/medicine_report.out
+        valgrind ./M1_Medicine_Record_SystemC/3_Implementation/Build/medicine_report.out
