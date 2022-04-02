@@ -29,7 +29,7 @@ Medical  store management in hospitals is a tedious and time consuming chore wit
 
 ## SWOT Analysis 
 
-![image]()
+![image](https://github.com/shahwar92/M1_Medicine_Record_System/blob/main/1_Requirements/Personal%20SWOT%20Analysis.png)
 
 # 4W's and 1'H
 
