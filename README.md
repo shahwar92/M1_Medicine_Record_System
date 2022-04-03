@@ -10,4 +10,15 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 2. [Markdown Basics](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 3. [Git Inspector](https://github.com/ejwa/gitinspector)
 4. [Git by Simplilearn](https://lms.simplilearn.com/courses/2823/GIT/syllabus)
+## Folder structure:
+
+| Folder | Description |
+| :---: | :---: |
+| `0_Cerificates` | All required certificates earned |
+| `1_Requirements` | Documents detailing requirements and research |
+| `2_Design` | Documents specifying design details |
+| `3_Implementation` | All code and documentation |
+| `4_TestPlanAndOutput` | Documents with test plans and procedures |
+| `5_Report` |  Project Report |
+| `6_ImagesAndVideos` | working steps of mini project |
  
