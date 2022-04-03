@@ -1,5 +1,7 @@
 # M1_Medicine_Record_System
 Digital Medicine Record System, which will help to access and manage all medicine in the store easily.
+## Run program
+to run the prgram goto 3_Implementation folder and run make command
 # Code Badges and score
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
