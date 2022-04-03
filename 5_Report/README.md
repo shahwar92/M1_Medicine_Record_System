@@ -11,3 +11,4 @@ By using this register one can easily perform the 5 following tasks to manage th
 
 By using this product medical shop owner may get rid of the heavy and bulky register. Because now a days maintaining a physical register is more challenging.
 This project is also ecofriendly because it restricts the paper wastage hence save the trees.
+![Save tree](https://raw.githubusercontent.com/shahwar92/M1_Medicine_Record_System/main/5_Report/84293421-a-pack-of-old-office-papers-for-recycling-of-waste-paper.webp)
