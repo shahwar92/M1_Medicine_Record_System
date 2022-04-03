@@ -12,15 +12,15 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 4. [Git by Simplilearn](https://lms.simplilearn.com/courses/2823/GIT/syllabus)
 ## Folder structure:
 
-| Folder | Description |
-| :---: | :---: |
-| `0_Cerificates` | All required certificates earned |
-| `1_Requirements` | Documents detailing requirements and research |
-| `2_Design` | Documents specifying design details |
-| `3_Implementation` | All code and documentation |
-| `4_TestPlanAndOutput` | Documents with test plans and procedures |
-| `5_Report` |  Project Report |
-| `6_ImagesAndVideos` | working steps of mini project |
+| Serial no. | Folder | Description |
+| :---: | :---: | :---: |
+| 1 | `0_Cerificates` | All required certificates earned |
+| 2 | `1_Requirements` | List of High level and low level requirements |
+| 3 | `2_Design` | Documents specifying design details |
+| 4 | `3_Implementation` | All code and documentation |
+| 5 | `4_TestPlanAndOutput` | Documents with test plans and procedures |
+| 6 | `5_Report` |  Project Report |
+| 7 | `6_ImagesAndVideos` | working steps of mini project |
 ## Challenges Faced and How Was It Overcome
 
 1. **compilation error:** installed the gcc msys64 mingw64 properly.
